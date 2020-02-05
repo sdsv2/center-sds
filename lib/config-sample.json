@@ -1,0 +1,31 @@
+{
+  "center":{
+    "title": "Center SDS",
+    "listen_port": 4675,
+    "api_key": "please change me"
+    "url_host": "http://localhost:4675"
+  },
+  "mysql":{
+    "host": "please change me",
+    "database": "please change me",
+    "user": "please change me",
+    "password": "please change me",
+    "selective_max_statement_time": 0
+  },
+  "core":{
+    "api_key" : "please change me",
+    "url_host": "please change me"
+  },
+  "owner_free":{
+    "member_id": 1
+  },
+  "app":{
+    "secretKey": "please change me",
+    "otpSecretKey": "please change me"
+  },
+  "modem": {
+    "url_host": ""
+    "modem_name": ""
+  }
+
+}

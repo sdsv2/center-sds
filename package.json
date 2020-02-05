@@ -1,0 +1,26 @@
+{
+  "name": "center-sds",
+  "version": "1.0.0",
+  "description": "Center messaging sds",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.kodesumber.com:sds/center-sds.git"
+  },
+  "author": "Arif Suwadji",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-and-time": "^0.6.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "mysql": "^2.17.0",
+    "path": "^0.12.7",
+    "random-number": "0.0.9",
+    "request": "^2.88.0"
+  }
+}
